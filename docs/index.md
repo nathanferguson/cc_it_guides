@@ -17,7 +17,7 @@ When selecting Question Library items from Copy Components, the interface no lon
 
 ### Pulling via Respondus
 
-Respondus's Retrieval function cannot pull entire quizzes if they contain subfolders, e.g. a Midterm or Final Exam quiz that contains subfolders for each chapter or section.
+Respondus's Retrieval [function](https://nathanferguson.github.io/cc_it_guides/#mylabsplus-extend-course-end-date) cannot pull entire quizzes if they contain subfolders, e.g. a Midterm or Final Exam quiz that contains subfolders for each chapter or section.
 
 Workaround: Import/copy the quizzes from the course into your sandbox and then manually add each section into folders in your Question Library. Then retrieve each section via Respondus.
 1. In your sandbox: Edit Course (under More More Tools), then Import / Export / Copy Components Copy Components from another Org Unit (Search for offering) Search for the course Select Components Quizzes (Select the quizzes to copy)
