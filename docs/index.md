@@ -42,19 +42,6 @@ If you are using Respondus to import a test bank in Word .doc/.docx format that 
 
 If you are using Respondus to import a test bank with questions that all start with similar or identical wording (e.g. If you have several questions that start with "Use the chart below to answer the following question..."), alter the wording slightly to import the questions successfully. E.g. "The below table shows..." or "The table shows ..." or "Below is a table showing."
 
-## Respondus Brightspace Server Information Settings
-
-- Leave Address field blank
-- Server Domain: ccis.ucourses.com
-- Server Port: 443
-- Check the "Yes, HTTPS:// always" checkbox
-- Description: respondus
-- User name: respondus
-- Password: respondus
-- Check the "Remember my User Name and Password" checkbox
-
-Click OK to lock in the server settings
-
 # Automatic Grades and Auto-Export Grades
 
 ## Automatic Grade only enabled
@@ -292,7 +279,7 @@ If you are still unable to access the course, you likely need a new access code 
 
 Ask the System Admin to check the 'show email address in classlist' checkbox in D2L for that instructor/course.
 
-## Find and Replace True False text question answers with multiple lines in Word for Respondus
+## Find and Replace True False text question answers with multiple lines in Word for 
 
 1. Copy the True False answer text. E.g. "Answer: TRUE", then hit **Ctrl H**
 2. Paste the answer text into the Find What field
