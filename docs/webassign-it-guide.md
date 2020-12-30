@@ -13,9 +13,9 @@
 
 WebAssign site: <a href="https://www.webassign.net/" target="_blank">https://www.webassign.net/</a>
 
-Username: ...
+Username: ```cconline@cougars.ccis.edu```
 
-Password: ...
+Password: *IDT password*
 
 [Jump to TOC](#toc)
 
