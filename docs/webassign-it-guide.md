@@ -11,7 +11,7 @@
 
 ## Login URL
 
-WebAssign site: <a href="https://www.webassign.net/" target="_blank">https://www.webassign.net/</a>
+WebAssign site: <a href="https://www.webassign.net/" target="_blank" rel="noopener">https://www.webassign.net/</a>
 
 Username: ...
 
