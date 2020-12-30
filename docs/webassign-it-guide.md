@@ -24,13 +24,13 @@ Jennifer Barger
 
 [jennifer.barger@cengage.com](mailto:jennifer.barger@cengage.com)
 
-859-657-4571
+```859-657-4571```
 
 Jeff Pitts
 
 [jeff.pitts@cengage.com](mailto:jeff.pitts@cengage.com)
 
-816-863-6112
+```816-863-6112```
 
 ## Session Setup
 
@@ -40,7 +40,7 @@ This guide is written under the assumption that you’ve made a session tracking
 
 ### Instructions
 1. In your session tracking sheet, hide all of the courses except for the ones that use WebAssign.
-2. Go to [https://www.webassign.net/](https://www.webassign.net/) and log in with the username (cconline@cougars.ccis.edu) and IDT shared accounts password
+2. Go to <a href="https://www.webassign.net/" target="_blank">https://www.webassign.net/</a> and log in with the username (```cconline@cougars.ccis.edu```) and IDT shared accounts password
     1. Find the Master section for the course that you are setting up for. (At the time of writing, CHEM/PHYS 108 is the only course we offer that uses WebAssign.) The Online master for this course is called CHEM/PHYS 108, section Master. The CCG master is called CHEM/PHYS 108, section CTEP master section CTEP.
     2. Click on Reschedule Assignments.
     3. For each assignment, click on the switch in the Scheduled column to unschedule, then click Save.
