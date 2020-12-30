@@ -57,6 +57,7 @@ This guide is written under the assumption that you’ve made a session tracking
     If the instructor of the course isn’t listed in the dropdown menu, Cengage will need to create an account for them. Contact Jeff Pitts ([jeff.pitts@cengage.com](mailto:jeff.pitts@cengage.com)) with the instructor’s name and Columbia College email address and he’ll get them set up.
     
     Click **Copy Section Schedule**.
+6. ... (pic)
     
 ## Development/Redev/Update Setup
 ### Overview
