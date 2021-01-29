@@ -17,7 +17,7 @@ Username: ```cconline@cougars.ccis.edu```
 
 Password: *IDT password*
 
-[Jump to TOC](#toc)
+[Jump to TOC](#table-of-contents)
 
 ## Publisher Representative Contact Information
 Jennifer Barger
